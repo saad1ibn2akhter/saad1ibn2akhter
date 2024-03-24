@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @saad1ibn2akhter
 - 👀 I’m interested in ... Robotics , Web development , Software engineering , Machine learning
-- 🌱 I’m currently learning ... javaScript , React , MonogDB , Python
+- 🌱 I’m currently learning ... javaScript , React , MonogDB , Python , java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...he , him
 - ⚡ Fun fact: ... I can't type without looking at the keyboard  .
 
 <!---
