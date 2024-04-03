@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @saad1ibn2akhter
+- 👋 Hi, I’m Saad Ibn Akhter
 - 👀 I’m interested in ... Robotics , Web development , Software engineering , Machine learning
 - 🌱 I’m currently learning ... javaScript , React , MonogDB , Python , java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...he , him
-- ⚡ Fun fact: ... I can't type without looking at the keyboard  .
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... 
 
 <!---
 saad1ibn2akhter/saad1ibn2akhter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
