@@ -1,4 +1,4 @@
-### Hi there, I'm Saad Ibn Akhter! 👋
+### Hi there, I'm <span id="typed-name"></span>! 👋
 
 I'm a passionate individual interested in Robotics, Web Development, Software Engineering, and Machine Learning. Currently, I'm diving deep into JavaScript, React, MongoDB, Python, and Java.
 
@@ -17,4 +17,11 @@ I'm a passionate individual interested in Robotics, Web Development, Software En
 - Python
 - Java
 
-Feel free to check out my projects and repositories. Let's connect and create something awesome together! 😄🚀
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+<script>
+    var typed = new Typed('#typed-name', {
+        strings: ['Saad Ibn Akhter'],
+        typeSpeed: 50,
+        loop: false
+    });
+</script>
