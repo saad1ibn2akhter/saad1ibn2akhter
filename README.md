@@ -1,4 +1,4 @@
-### Hi there, I'm <span id="typed-name"></span>! 👋
+### Hi there, I'm Saad Ibn Akhter 👋
 
 I'm a passionate individual interested in Robotics, Web Development, Software Engineering, and Machine Learning. Currently, I'm diving deep into JavaScript, React, MongoDB, Python, and Java.
 
