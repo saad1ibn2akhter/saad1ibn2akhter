@@ -6,7 +6,7 @@ I'm a passionate individual interested in Robotics, Web Development, Software En
 - 🌱 I’m currently learning and exploring new technologies.
 - 👯 I’m looking to collaborate on exciting projects that combine my interests.
 - 💬 Ask me about anything related to technology and programming!
-- 📫 How to reach me: [Your Contact Info/Links]
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy combining my love for technology with outdoor activities like hiking and camping!
 
