@@ -17,11 +17,5 @@ I'm a passionate individual interested in Robotics, Web Development, Software En
 - Python
 - Java
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
-<script>
-    var typed = new Typed('#typed-name', {
-        strings: ['Saad Ibn Akhter'],
-        typeSpeed: 50,
-        loop: false
-    });
-</script>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
