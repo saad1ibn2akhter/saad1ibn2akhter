@@ -1,12 +1,17 @@
 <div align="center">
 <img src="https://i.pinimg.com/564x/7e/cf/ef/7ecfefa732072d88dd292185535583d4.jpg" align="center" style="width: 100%" />
 </div>
-<div align="center" style="font-size: 50px; font-family: Arial, sans-serif;">I'm Saad, a Programming Enthusiast from Bangladesh 👨‍💻 🚀</div>
+<div align="center" style="font-size: 50px; font:50; font-family: Arial, sans-serif; margin-bottom:30px">I'm Saad, a Programming Enthusiast from Bangladesh 👨‍💻 🚀</div>
 
 <p style="font-size: 18px; font-family: 'Roboto', sans-serif;">
+
+
+
+
+  
   🌱 I’m currently learning MERN Stack Web Development<br/>
   ❓ Ask me about anything related to the MERN stack and related technologies<br/>
-  ⚡ Fun fact: I use tabs over spaces
+  ⚡ Fun fact: Finally started using rat instead of mouse 🖱 
 </p>
 
 <br/>
