@@ -4,13 +4,13 @@
 </div>  
   
 
-### ***<div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>***  
+### ***<div align="center">I'm Saad , a programming enthusiast from Bangladesh 👨‍💻 🚀</div>***  
   
 
 -   
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning MERN Stack Web Dev 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
