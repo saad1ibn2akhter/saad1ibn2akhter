@@ -1,4 +1,7 @@
 # 💫 About Me:
+Hi! I’m a 14-year-old coding enthusiast with a passion for technology and web development. I have hands-on experience with a variety of technologies including Node.js, Express, MongoDB, React, HTML, CSS, Tailwind, Arduino, Firebase, JWT, and Stripe.
+I’m always eager to learn new skills and take on exciting projects. I enjoy building dynamic and responsive web applications and exploring the latest trends in the tech world and I’m enthusiastic about collaborating on innovative projects and expanding my knowledge.
+
 🔭 I’m currently working on MathMAtters : An interactive platform for Math olympiad preparation <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
