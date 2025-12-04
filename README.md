@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I’m a 15-year-old who spends his valuable time coding (not really) completely random stuff that absolutely nobody asked for and probably nobody will ever use.
-I’m also the defending world champion of International Procrastination Competition, which basically means I can delay things faster than most people can start them.
+I’m also the defending world champion of International Procrastination Competition 2024, which basically means I can delay things faster than most people can start them.
 
 People say my hair is brighter than my future, and honestly, that feels scientifically accurate at this point.
 
